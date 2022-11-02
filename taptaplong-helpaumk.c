@@ -1,4 +1,4 @@
-
+//I use this as a copy and paste key, I tap it and it copies, then when I need to paste I hold it.
 //This section for me is in a seperate .c file than my keymap along with my other
 //functions, you should do this too
 
